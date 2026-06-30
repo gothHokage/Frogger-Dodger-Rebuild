@@ -16,11 +16,14 @@ public class InsectEnemy : PoolableObject
     private Vector2 wanderOffset;
     private float wanderTimer;
 
+    private Vector3 originalScale;
+    
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0;
         rb.freezeRotation = true;
+        originalScale = transform.localScale;
     }
 
     public override void OnSpawn()
@@ -54,7 +57,10 @@ public class InsectEnemy : PoolableObject
         rb.linearVelocity = Vector2.Lerp(rb.linearVelocity, desired, Time.fixedDeltaTime * 5f);
 
         if (rb.linearVelocity.x != 0)
-            transform.localScale = new Vector3(Mathf.Sign(rb.linearVelocity.x), 1f, 1f);
+        {
+            transform.localScale = new Vector3(Mathf.Sign(rb.linearVelocity.x) * Mathf.Abs(originalScale.x), originalScale.y, originalScale.z);
+        }
+            
     }
 
     private Vector2 Seek()

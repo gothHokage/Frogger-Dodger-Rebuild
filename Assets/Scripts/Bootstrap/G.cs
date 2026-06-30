@@ -5,7 +5,10 @@ public static class G
     public static SceneLoader SceneLoader;
     public static AudioManager AudioManager;
     public static InputManager InputManager;
+    public static RunStatsSystem RunStatsSystem;
+
     public static ObjectPool ObjectPool;
+    
     public static CameraShake CameraShake;
 }
 
@@ -31,6 +34,7 @@ public static class GameBootstrap
         G.SceneLoader = CreateSimpleService<SceneLoader>();
         G.InputManager = CreateSimpleService<InputManager>();
         G.ObjectPool = CreateSimpleService<ObjectPool>();
+        G.RunStatsSystem = CreateSimpleService<RunStatsSystem>();
         
         Debug.Log("Game Bootstrap initialized");
     }

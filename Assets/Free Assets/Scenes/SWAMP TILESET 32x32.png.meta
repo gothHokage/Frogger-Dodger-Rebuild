@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 9099dc23389c0214d90170546519296f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -47009716912061887
+    second: SWAMP TILESET 32x32_0
+  - first:
+      213: -1490844138799777829
+    second: SWAMP TILESET 32x32_1
+  - first:
+      213: 7676444520079518899
+    second: SWAMP TILESET 32x32_2
+  - first:
+      213: 1882184783081100720
+    second: SWAMP TILESET 32x32_3
+  - first:
+      213: 8656268610446722237
+    second: SWAMP TILESET 32x32_4
+  - first:
+      213: -1538097641638332247
+    second: SWAMP TILESET 32x32_5
+  - first:
+      213: 1816913408479362297
+    second: SWAMP TILESET 32x32_6
+  - first:
+      213: 6846303160434510371
+    second: SWAMP TILESET 32x32_7
+  - first:
+      213: -2907175922729170231
+    second: SWAMP TILESET 32x32_8
+  - first:
+      213: -156972799564817905
+    second: SWAMP TILESET 32x32_9
+  - first:
+      213: 373993088701411910
+    second: SWAMP TILESET 32x32_10
+  - first:
+      213: 7936156971606218696
+    second: SWAMP TILESET 32x32_11
+  - first:
+      213: 8815406815076357100
+    second: SWAMP TILESET 32x32_12
+  - first:
+      213: -9214193943219773070
+    second: SWAMP TILESET 32x32_13
+  - first:
+      213: 3549896104606041455
+    second: SWAMP TILESET 32x32_14
+  - first:
+      213: 1413481424947805111
+    second: SWAMP TILESET 32x32_15
+  - first:
+      213: -1752623121223540810
+    second: SWAMP TILESET 32x32_16
+  - first:
+      213: -2909966319183972549
+    second: SWAMP TILESET 32x32_17
+  - first:
+      213: 3850580020208139979
+    second: SWAMP TILESET 32x32_18
+  - first:
+      213: -5878410095853504848
+    second: SWAMP TILESET 32x32_19
+  - first:
+      213: 6923286594300598387
+    second: SWAMP TILESET 32x32_20
+  - first:
+      213: 1957220963081427844
+    second: SWAMP TILESET 32x32_21
+  - first:
+      213: -4598858831106085484
+    second: SWAMP TILESET 32x32_22
+  - first:
+      213: -2904868959026656058
+    second: SWAMP TILESET 32x32_23
+  - first:
+      213: -8565036146211752972
+    second: SWAMP TILESET 32x32_24
+  - first:
+      213: 8938398143811382675
+    second: SWAMP TILESET 32x32_25
+  - first:
+      213: -4791687091926169747
+    second: SWAMP TILESET 32x32_26
+  - first:
+      213: 2938553976613628821
+    second: SWAMP TILESET 32x32_27
+  - first:
+      213: -5335571450361654154
+    second: SWAMP TILESET 32x32_28
+  - first:
+      213: -4536506067258092626
+    second: SWAMP TILESET 32x32_29
+  - first:
+      213: -3991018832535765050
+    second: SWAMP TILESET 32x32_30
+  - first:
+      213: -3030730720864957467
+    second: SWAMP TILESET 32x32_31
+  - first:
+      213: -4746410698997594824
+    second: SWAMP TILESET 32x32_32
+  - first:
+      213: -7106761758393072543
+    second: SWAMP TILESET 32x32_33
+  - first:
+      213: -6003818968021527062
+    second: SWAMP TILESET 32x32_34
+  - first:
+      213: -7373224600446314345
+    second: SWAMP TILESET 32x32_35
+  - first:
+      213: -9187432110229819755
+    second: SWAMP TILESET 32x32_36
+  - first:
+      213: -8861455999087192489
+    second: SWAMP TILESET 32x32_37
+  - first:
+      213: 9062501566615258143
+    second: SWAMP TILESET 32x32_38
+  - first:
+      213: 811400904616747904
+    second: SWAMP TILESET 32x32_39
+  - first:
+      213: -8487352727686811928
+    second: SWAMP TILESET 32x32_40
+  - first:
+      213: 7829676124987287133
+    second: SWAMP TILESET 32x32_41
+  - first:
+      213: -606284483438132147
+    second: SWAMP TILESET 32x32_42
+  - first:
+      213: 2644156352159703275
+    second: SWAMP TILESET 32x32_43
+  - first:
+      213: 4714545379562451
+    second: SWAMP TILESET 32x32_44
+  - first:
+      213: 6668439956707112428
+    second: SWAMP TILESET 32x32_45
+  - first:
+      213: -2771594561280460294
+    second: SWAMP TILESET 32x32_46
+  - first:
+      213: -4160205952423698703
+    second: SWAMP TILESET 32x32_47
+  - first:
+      213: -3397181106555986558
+    second: SWAMP TILESET 32x32_48
+  - first:
+      213: -6465529416206860343
+    second: SWAMP TILESET 32x32_49
+  - first:
+      213: 3615389880434019459
+    second: SWAMP TILESET 32x32_50
+  - first:
+      213: -8351968169676292736
+    second: SWAMP TILESET 32x32_51
+  - first:
+      213: -3043406655095358633
+    second: SWAMP TILESET 32x32_52
+  - first:
+      213: -1236814913557747609
+    second: SWAMP TILESET 32x32_53
+  - first:
+      213: -5088694493429514734
+    second: SWAMP TILESET 32x32_54
+  - first:
+      213: 2382021570156876320
+    second: SWAMP TILESET 32x32_55
+  - first:
+      213: -6826547266910419370
+    second: SWAMP TILESET 32x32_56
+  - first:
+      213: 8111272672658205903
+    second: SWAMP TILESET 32x32_57
+  - first:
+      213: -6350211069290375977
+    second: SWAMP TILESET 32x32_58
+  - first:
+      213: 7285358931559722890
+    second: SWAMP TILESET 32x32_59
+  - first:
+      213: 202070879035653986
+    second: SWAMP TILESET 32x32_60
+  - first:
+      213: -665341120210327611
+    second: SWAMP TILESET 32x32_61
+  - first:
+      213: 6928277797476069595
+    second: SWAMP TILESET 32x32_62
+  - first:
+      213: 3156034986311393602
+    second: SWAMP TILESET 32x32_63
+  - first:
+      213: 1779305070376899340
+    second: SWAMP TILESET 32x32_64
+  - first:
+      213: -7038488761397131670
+    second: SWAMP TILESET 32x32_65
+  - first:
+      213: 1288818645724282614
+    second: SWAMP TILESET 32x32_66
+  - first:
+      213: -6124902973011296392
+    second: SWAMP TILESET 32x32_67
+  - first:
+      213: -3402099165500394234
+    second: SWAMP TILESET 32x32_68
+  - first:
+      213: -4794478655223670457
+    second: SWAMP TILESET 32x32_69
+  - first:
+      213: -2015491750558290160
+    second: SWAMP TILESET 32x32_70
+  - first:
+      213: -9179110707740585995
+    second: SWAMP TILESET 32x32_71
+  - first:
+      213: -4191869954147442730
+    second: SWAMP TILESET 32x32_72
+  - first:
+      213: 9091708613929450013
+    second: SWAMP TILESET 32x32_73
+  - first:
+      213: 869292739894405193
+    second: SWAMP TILESET 32x32_74
+  - first:
+      213: 4649855834868793548
+    second: SWAMP TILESET 32x32_75
+  - first:
+      213: 1346110183782879079
+    second: SWAMP TILESET 32x32_76
+  - first:
+      213: 8714159179455133902
+    second: SWAMP TILESET 32x32_77
+  - first:
+      213: 4426188044097804432
+    second: SWAMP TILESET 32x32_78
+  - first:
+      213: -6455547042845062122
+    second: SWAMP TILESET 32x32_79
+  - first:
+      213: 493650255336202728
+    second: SWAMP TILESET 32x32_80
+  - first:
+      213: 1031526771680737938
+    second: SWAMP TILESET 32x32_81
+  - first:
+      213: 7251720473119136733
+    second: SWAMP TILESET 32x32_82
+  - first:
+      213: 3844100371237364823
+    second: SWAMP TILESET 32x32_83
+  - first:
+      213: 6733745423762030182
+    second: SWAMP TILESET 32x32_84
+  - first:
+      213: 2213124058424374575
+    second: SWAMP TILESET 32x32_85
+  - first:
+      213: 3941156727381691454
+    second: SWAMP TILESET 32x32_86
+  - first:
+      213: -8000455786845782389
+    second: SWAMP TILESET 32x32_87
+  - first:
+      213: -8948828213161984082
+    second: SWAMP TILESET 32x32_88
+  - first:
+      213: 8718239750269381432
+    second: SWAMP TILESET 32x32_89
+  - first:
+      213: -288838058151811419
+    second: SWAMP TILESET 32x32_90
+  - first:
+      213: 5727204367662109732
+    second: SWAMP TILESET 32x32_91
+  - first:
+      213: -2214949684786837529
+    second: SWAMP TILESET 32x32_92
+  - first:
+      213: 4508893497062596329
+    second: SWAMP TILESET 32x32_93
+  - first:
+      213: -3999826182312342737
+    second: SWAMP TILESET 32x32_94
+  - first:
+      213: -4028760320636124181
+    second: SWAMP TILESET 32x32_95
+  - first:
+      213: 7046979197066778436
+    second: SWAMP TILESET 32x32_96
+  - first:
+      213: 1915804828438044959
+    second: SWAMP TILESET 32x32_97
+  - first:
+      213: 8377057621192853066
+    second: SWAMP TILESET 32x32_98
+  - first:
+      213: 624296188223316891
+    second: SWAMP TILESET 32x32_99
+  - first:
+      213: 268562147397484687
+    second: SWAMP TILESET 32x32_100
+  - first:
+      213: -3610116983695183097
+    second: SWAMP TILESET 32x32_101
+  - first:
+      213: -7393480534522068474
+    second: SWAMP TILESET 32x32_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 609
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142077a59ecf85ff0800000000000000
+      internalID: -47009716912061887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7bd5397257f4be0800000000000000
+      internalID: -1490844138799777829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 176
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc65559e95388a60800000000000000
+      internalID: 7676444520079518899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5d135861dde1a10800000000000000
+      internalID: 1882184783081100720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 161
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48a06307e312870800000000000000
+      internalID: 8656268610446722237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 130
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f748185497aae0800000000000000
+      internalID: -1538097641638332247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 130
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc7e0c5e19f63910800000000000000
+      internalID: 1816913408479362297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a455e7374f20f50800000000000000
+      internalID: 6846303160434510371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac822b6e2a7a7d0800000000000000
+      internalID: -2907175922729170231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a5a8a021252ddf0800000000000000
+      internalID: -156972799564817905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642bf709bb0b03500800000000000000
+      internalID: 373993088701411910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c71456d7b4e22e60800000000000000
+      internalID: 7936156971606218696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce31f23dacd965a70800000000000000
+      internalID: 8815406815076357100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27164d27d6b902080800000000000000
+      internalID: -9214193943219773070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f650690f2b3c34130800000000000000
+      internalID: 3549896104606041455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb70a6fdd1bd9310800000000000000
+      internalID: 1413481424947805111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 162
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf955a9e8e6da7e0800000000000000
+      internalID: -1752623121223540810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3730b4ec09bd97d0800000000000000
+      internalID: -2909966319183972549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcef8bb8022007530800000000000000
+      internalID: 3850580020208139979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6f498b921bb6ea0800000000000000
+      internalID: -5878410095853504848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d283f974741060800000000000000
+      internalID: 6923286594300598387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 131
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9a6b9812792b10800000000000000
+      internalID: 1957220963081427844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 129
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de0c742429d20c0800000000000000
+      internalID: -4598858831106085484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 123
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc482a8215dfa7d0800000000000000
+      internalID: -2904868959026656058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 136
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3faa82101e22980800000000000000
+      internalID: -8565036146211752972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 136
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d63ee01c19b0c70800000000000000
+      internalID: 8938398143811382675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 136
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d678ae23af1808db0800000000000000
+      internalID: -4791687091926169747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bed59c547d7c820800000000000000
+      internalID: 2938553976613628821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6745a73f80e34f5b0800000000000000
+      internalID: -5335571450361654154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 131
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea35dab64c71b01c0800000000000000
+      internalID: -4536506067258092626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfbfc2648d0d98c0800000000000000
+      internalID: -3991018832535765050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb0bf4877ea0f5d0800000000000000
+      internalID: -3030730720864957467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8358228ed9c512eb0800000000000000
+      internalID: -4746410698997594824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16486af75d5bf5d90800000000000000
+      internalID: -7106761758393072543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5135b45762eaca0800000000000000
+      internalID: -6003818968021527062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d9397a4b0da990800000000000000
+      internalID: -7373224600446314345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eebbf3c2faf7080800000000000000
+      internalID: -9187432110229819755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75657a508b8c50580800000000000000
+      internalID: -8861455999087192489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 115
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14068ed82974cd70800000000000000
+      internalID: 9062501566615258143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 101
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083ac12e2dca24b00800000000000000
+      internalID: 811400904616747904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 114
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eee8ce79add63a80800000000000000
+      internalID: -8487352727686811928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 101
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d566938c3f898ac60800000000000000
+      internalID: 7829676124987287133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 67
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44c6db797b0697f0800000000000000
+      internalID: -606284483438132147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be06215613ee1b420800000000000000
+      internalID: 2644156352159703275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d350a2aadfb01000800000000000000
+      internalID: 4714545379562451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 104
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce57c894fce0b8c50800000000000000
+      internalID: 6668439956707112428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_46
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af939795e615989d0800000000000000
+      internalID: -2771594561280460294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_47
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 104
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed15d5abaf346c0800000000000000
+      internalID: -4160205952423698703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_48
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ddf0a58c9cad0d0800000000000000
+      internalID: -3397181106555986558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_49
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 104
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfb6267043d546a0800000000000000
+      internalID: -6465529416206860343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ccfcbe0f17c2230800000000000000
+      internalID: 3615389880434019459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d33174339d71c80800000000000000
+      internalID: -8351968169676292736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 66
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b3bf795c5a3c5d0800000000000000
+      internalID: -3043406655095358633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7682c789363f5dee0800000000000000
+      internalID: -1236814913557747609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eb5acb1535169b0800000000000000
+      internalID: -5088694493429514734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022d4806ff3ae0120800000000000000
+      internalID: 2382021570156876320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6560469ed6b3341a0800000000000000
+      internalID: -6826547266910419370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc202a3587019070800000000000000
+      internalID: 8111272672658205903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d491366da48fd7a0800000000000000
+      internalID: -6350211069290375977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 69
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f26d8495bca1560800000000000000
+      internalID: 7285358931559722890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_60
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 72
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ffe54d466edc200800000000000000
+      internalID: 202070879035653986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7276bb6cb34c6f0800000000000000
+      internalID: -665341120210327611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_62
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd079cff2ff262060800000000000000
+      internalID: 6928277797476069595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_63
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241abc1491d7ccb20800000000000000
+      internalID: 3156034986311393602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 72
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03dddac88c51b810800000000000000
+      internalID: 1779305070376899340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66485553c3425e90800000000000000
+      internalID: -7038488761397131670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6febb46dabdc2e110800000000000000
+      internalID: 1288818645724282614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_67
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 67
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f7de97239fffaa0800000000000000
+      internalID: -6124902973011296392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_68
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60532b585d059c0d0800000000000000
+      internalID: -3402099165500394234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 67
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7495338b017967db0800000000000000
+      internalID: -4794478655223670457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2e307ee88704e0800000000000000
+      internalID: -2015491750558290160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff432fb17f3d9080800000000000000
+      internalID: -9179110707740585995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df98667c7c73d5c0800000000000000
+      internalID: -4191869954147442730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1abf9e70dc3c2e70800000000000000
+      internalID: 9091708613929450013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9486b372429501c00800000000000000
+      internalID: 869292739894405193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c12eee3b978040800000000000000
+      internalID: 4649855834868793548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f0ae484185ea210800000000000000
+      internalID: 1346110183782879079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_77
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f1a7aa99eee870800000000000000
+      internalID: 8714159179455133902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098d78d339afc6d30800000000000000
+      internalID: 4426188044097804432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c8560ea2a4966a0800000000000000
+      internalID: -6455547042845062122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 53
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16890ba4cc9d600800000000000000
+      internalID: 493650255336202728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_81
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29af5523228b05e00800000000000000
+      internalID: 1031526771680737938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_82
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb91ba595943a460800000000000000
+      internalID: 7251720473119136733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_83
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754ec84bbecf85530800000000000000
+      internalID: 3844100371237364823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_84
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 50
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e7f3739c1137d50800000000000000
+      internalID: 6733745423762030182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_85
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 50
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2571420b9896be10800000000000000
+      internalID: 2213124058424374575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0ab3992dc1b630800000000000000
+      internalID: 3941156727381691454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb6df99dba8f090800000000000000
+      internalID: -8000455786845782389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7c7e27206fc380800000000000000
+      internalID: -8948828213161984082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_89
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 41
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b2f759cd86df870800000000000000
+      internalID: 8718239750269381432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_90
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 43
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a66f320157ddfbf0800000000000000
+      internalID: -288838058151811419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_91
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 42
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424d092470e1b7f40800000000000000
+      internalID: 5727204367662109732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7caea3ffae241e0800000000000000
+      internalID: -2214949684786837529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1c761fbec29e30800000000000000
+      internalID: 4508893497062596329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b47f77743cd78c0800000000000000
+      internalID: -3999826182312342737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 34
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be38b4b65d7f618c0800000000000000
+      internalID: -4028760320636124181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_96
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 34
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4479bb44e36ebc160800000000000000
+      internalID: 7046979197066778436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_97
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 18
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f112702575e469a10800000000000000
+      internalID: 1915804828438044959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 18
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46cd2ed589414470800000000000000
+      internalID: 8377057621192853066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_99
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b936ea55312f9a800800000000000000
+      internalID: 624296188223316891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_100
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 11
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f804eb3a9df1ab300800000000000000
+      internalID: 268562147397484687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_101
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 10
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7037e350bb946edc0800000000000000
+      internalID: -3610116983695183097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAMP TILESET 32x32_102
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6020c0e40a4156990800000000000000
+      internalID: -7393480534522068474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SWAMP TILESET 32x32_0: -47009716912061887
+      SWAMP TILESET 32x32_1: -1490844138799777829
+      SWAMP TILESET 32x32_10: 373993088701411910
+      SWAMP TILESET 32x32_100: 268562147397484687
+      SWAMP TILESET 32x32_101: -3610116983695183097
+      SWAMP TILESET 32x32_102: -7393480534522068474
+      SWAMP TILESET 32x32_11: 7936156971606218696
+      SWAMP TILESET 32x32_12: 8815406815076357100
+      SWAMP TILESET 32x32_13: -9214193943219773070
+      SWAMP TILESET 32x32_14: 3549896104606041455
+      SWAMP TILESET 32x32_15: 1413481424947805111
+      SWAMP TILESET 32x32_16: -1752623121223540810
+      SWAMP TILESET 32x32_17: -2909966319183972549
+      SWAMP TILESET 32x32_18: 3850580020208139979
+      SWAMP TILESET 32x32_19: -5878410095853504848
+      SWAMP TILESET 32x32_2: 7676444520079518899
+      SWAMP TILESET 32x32_20: 6923286594300598387
+      SWAMP TILESET 32x32_21: 1957220963081427844
+      SWAMP TILESET 32x32_22: -4598858831106085484
+      SWAMP TILESET 32x32_23: -2904868959026656058
+      SWAMP TILESET 32x32_24: -8565036146211752972
+      SWAMP TILESET 32x32_25: 8938398143811382675
+      SWAMP TILESET 32x32_26: -4791687091926169747
+      SWAMP TILESET 32x32_27: 2938553976613628821
+      SWAMP TILESET 32x32_28: -5335571450361654154
+      SWAMP TILESET 32x32_29: -4536506067258092626
+      SWAMP TILESET 32x32_3: 1882184783081100720
+      SWAMP TILESET 32x32_30: -3991018832535765050
+      SWAMP TILESET 32x32_31: -3030730720864957467
+      SWAMP TILESET 32x32_32: -4746410698997594824
+      SWAMP TILESET 32x32_33: -7106761758393072543
+      SWAMP TILESET 32x32_34: -6003818968021527062
+      SWAMP TILESET 32x32_35: -7373224600446314345
+      SWAMP TILESET 32x32_36: -9187432110229819755
+      SWAMP TILESET 32x32_37: -8861455999087192489
+      SWAMP TILESET 32x32_38: 9062501566615258143
+      SWAMP TILESET 32x32_39: 811400904616747904
+      SWAMP TILESET 32x32_4: 8656268610446722237
+      SWAMP TILESET 32x32_40: -8487352727686811928
+      SWAMP TILESET 32x32_41: 7829676124987287133
+      SWAMP TILESET 32x32_42: -606284483438132147
+      SWAMP TILESET 32x32_43: 2644156352159703275
+      SWAMP TILESET 32x32_44: 4714545379562451
+      SWAMP TILESET 32x32_45: 6668439956707112428
+      SWAMP TILESET 32x32_46: -2771594561280460294
+      SWAMP TILESET 32x32_47: -4160205952423698703
+      SWAMP TILESET 32x32_48: -3397181106555986558
+      SWAMP TILESET 32x32_49: -6465529416206860343
+      SWAMP TILESET 32x32_5: -1538097641638332247
+      SWAMP TILESET 32x32_50: 3615389880434019459
+      SWAMP TILESET 32x32_51: -8351968169676292736
+      SWAMP TILESET 32x32_52: -3043406655095358633
+      SWAMP TILESET 32x32_53: -1236814913557747609
+      SWAMP TILESET 32x32_54: -5088694493429514734
+      SWAMP TILESET 32x32_55: 2382021570156876320
+      SWAMP TILESET 32x32_56: -6826547266910419370
+      SWAMP TILESET 32x32_57: 8111272672658205903
+      SWAMP TILESET 32x32_58: -6350211069290375977
+      SWAMP TILESET 32x32_59: 7285358931559722890
+      SWAMP TILESET 32x32_6: 1816913408479362297
+      SWAMP TILESET 32x32_60: 202070879035653986
+      SWAMP TILESET 32x32_61: -665341120210327611
+      SWAMP TILESET 32x32_62: 6928277797476069595
+      SWAMP TILESET 32x32_63: 3156034986311393602
+      SWAMP TILESET 32x32_64: 1779305070376899340
+      SWAMP TILESET 32x32_65: -7038488761397131670
+      SWAMP TILESET 32x32_66: 1288818645724282614
+      SWAMP TILESET 32x32_67: -6124902973011296392
+      SWAMP TILESET 32x32_68: -3402099165500394234
+      SWAMP TILESET 32x32_69: -4794478655223670457
+      SWAMP TILESET 32x32_7: 6846303160434510371
+      SWAMP TILESET 32x32_70: -2015491750558290160
+      SWAMP TILESET 32x32_71: -9179110707740585995
+      SWAMP TILESET 32x32_72: -4191869954147442730
+      SWAMP TILESET 32x32_73: 9091708613929450013
+      SWAMP TILESET 32x32_74: 869292739894405193
+      SWAMP TILESET 32x32_75: 4649855834868793548
+      SWAMP TILESET 32x32_76: 1346110183782879079
+      SWAMP TILESET 32x32_77: 8714159179455133902
+      SWAMP TILESET 32x32_78: 4426188044097804432
+      SWAMP TILESET 32x32_79: -6455547042845062122
+      SWAMP TILESET 32x32_8: -2907175922729170231
+      SWAMP TILESET 32x32_80: 493650255336202728
+      SWAMP TILESET 32x32_81: 1031526771680737938
+      SWAMP TILESET 32x32_82: 7251720473119136733
+      SWAMP TILESET 32x32_83: 3844100371237364823
+      SWAMP TILESET 32x32_84: 6733745423762030182
+      SWAMP TILESET 32x32_85: 2213124058424374575
+      SWAMP TILESET 32x32_86: 3941156727381691454
+      SWAMP TILESET 32x32_87: -8000455786845782389
+      SWAMP TILESET 32x32_88: -8948828213161984082
+      SWAMP TILESET 32x32_89: 8718239750269381432
+      SWAMP TILESET 32x32_9: -156972799564817905
+      SWAMP TILESET 32x32_90: -288838058151811419
+      SWAMP TILESET 32x32_91: 5727204367662109732
+      SWAMP TILESET 32x32_92: -2214949684786837529
+      SWAMP TILESET 32x32_93: 4508893497062596329
+      SWAMP TILESET 32x32_94: -3999826182312342737
+      SWAMP TILESET 32x32_95: -4028760320636124181
+      SWAMP TILESET 32x32_96: 7046979197066778436
+      SWAMP TILESET 32x32_97: 1915804828438044959
+      SWAMP TILESET 32x32_98: 8377057621192853066
+      SWAMP TILESET 32x32_99: 624296188223316891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

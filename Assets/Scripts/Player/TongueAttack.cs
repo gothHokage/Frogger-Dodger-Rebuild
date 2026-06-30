@@ -187,6 +187,9 @@ public class TongueAttack : MonoBehaviour
 
     private void OnEatInsect()
     {
+        G.RunStatsSystem.AddEssence(1);
+        G.RunStatsSystem.AddKill();
+
         Debug.Log("Насекомое съедено!");
     }
 

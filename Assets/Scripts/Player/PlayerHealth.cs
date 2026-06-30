@@ -1,17 +1,17 @@
-// PlayerHealth.cs
 using UnityEngine;
-using System.Collections;
 
 [RequireComponent(typeof(HealthSystem))]
 public class PlayerHealth : MonoBehaviour
 {
-    private HealthSystem healthSystem;
+    [SerializeField] private DeathScreen _deathScreen;
+
+    private HealthSystem _healthSystem;
 
     private void Awake()
     {
-        healthSystem = GetComponent<HealthSystem>();
-        healthSystem.OnDamaged += OnDamaged;
-        healthSystem.OnDeath += OnDeath;
+        _healthSystem = GetComponent<HealthSystem>();
+        _healthSystem.OnDamaged += OnDamaged;
+        _healthSystem.OnDeath += OnDeath;
     }
 
     private void OnDamaged(DamageType damageType)
@@ -29,6 +29,6 @@ public class PlayerHealth : MonoBehaviour
 
     private void OnDeath()
     {
-        Debug.Log("Лягушонок погиб");
+        _deathScreen?.Show();
     }
 }

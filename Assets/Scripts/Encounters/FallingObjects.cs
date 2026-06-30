@@ -5,7 +5,9 @@ using UnityEngine;
 public class FallingObject : PoolableObject
 {
     [SerializeField] private float _gravityScale = 4f;
-
+    [SerializeField] private Sprite[] sprites;
+    [SerializeField] private SpriteRenderer spriteRenderer;
+    
     private Rigidbody2D _rb;
 
     private void Awake()
@@ -15,6 +17,7 @@ public class FallingObject : PoolableObject
 
     public override void OnSpawn()
     {
+        spriteRenderer.sprite = sprites[Random.Range(0, sprites.Length)];
         _rb.gravityScale = _gravityScale;
         _rb.linearVelocity = Vector2.zero;
     }
